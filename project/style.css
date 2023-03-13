@@ -1,0 +1,13 @@
+img {
+    float: right;
+    width: 100px;
+}
+.image-center {
+    display: flex;
+}
+.center img {
+    width: 100%;
+}
+.left, .right, .center {
+    width: 33%;
+}
